@@ -1,0 +1,1 @@
+[zim](https://github.com/zimfw/zimfw) module for [transient prompt](https://gist.github.com/subnut/3af65306fbecd35fe2dda81f59acf2b2)
